@@ -1,7 +1,7 @@
 ## Ooi, meu nome é Igor!
 
-📚Estudando Javascript 
-💻Trabalhando como Front-end
+Estudando Desenvolvimento Web
+Me Graduando em Ciber Segurança
 
 <div align="center">
   <a href="https://github.com/rafaballerini](https://github.com/IgorAGomes7)">
